@@ -1,8 +1,0 @@
-cloudstack.compute==0.10.2
-httplib2==0.9.2
-lxml==3.6.4
-numpy==1.14.2
-parsedatetime==0.8.7
-prettytable==0.5
-simplejson==3.9.0
-six==1.11.0
